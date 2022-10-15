@@ -1,0 +1,27 @@
+.form1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.input1{
+    border-radius: 5px;
+    border: 0.2px solid rgb(188, 179, 179);
+    margin: 5px;
+    width: 400px;
+    height: 30px;
+}
+.input2{
+    background-color: rgb(70, 70, 251);
+    color: white;
+    width: 50px;
+    border-radius: 5px;
+    border: 0.2px solid rgb(188, 179, 179);
+    height: 30px;
+    cursor:pointer;
+}
+.input2:hover{
+    background-color:rgb(106, 106, 238);
+}
+.para{
+    color: rgb(230, 90, 90);
+}
